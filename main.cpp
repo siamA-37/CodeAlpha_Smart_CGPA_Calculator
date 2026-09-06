@@ -1,5 +1,13 @@
-#include<bits/stdc++.h>
+#include <iostream>
+#include <string>
+#include <vector>
+#include <iomanip>
+#include <limits>
+#include <algorithm>
+#include <cctype>
+
 using namespace std;
+
 struct Course{
     string course_names;
     double credit;
